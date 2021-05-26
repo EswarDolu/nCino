@@ -227,6 +227,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>CF6__c</fullName>
+        <externalId>false</externalId>
+        <label>CF6</label>
+        <length>24</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Pen</label>
     <listViews>
         <fullName>All</fullName>

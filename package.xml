@@ -6,6 +6,7 @@
         <members>Pen__c.CF3__c</members>
         <members>Pen__c.CF4__c</members>
         <members>Pen__c.CF5__c</members>
+        <members>Pen__c.CF6__c</members>
         <name>CustomField</name>
     </types>
     <types>
