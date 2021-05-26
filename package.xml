@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>48.0</version>
+    <types>
+        <members>Pen__c.CF1__c</members>
+        <members>Pen__c.CF2__c</members>
+        <members>Pen__c.CF3__c</members>
+        <members>Pen__c.CF4__c</members>
+        <members>Pen__c.CF5__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Pen__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Pen__c.FS1</members>
+        <name>FieldSet</name>
+    </types>
+    <types>
+        <members>Pen__c.All</members>
+        <name>ListView</name>
+    </types>
+</Package>
