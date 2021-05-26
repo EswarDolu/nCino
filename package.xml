@@ -21,4 +21,8 @@
         <members>Pen__c.All</members>
         <name>ListView</name>
     </types>
+    <types>
+        <members>Pen__c.P_N_Required</members>
+        <name>ValidationRule</name>
+    </types>
 </Package>

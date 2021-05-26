@@ -250,5 +250,11 @@
     <pluralLabel>Pens</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>P_N_Required</fullName>
+        <active>true</active>
+        <errorConditionFormula>ISBLANK(CF6__c)</errorConditionFormula>
+        <errorMessage>CF6 is not blank</errorMessage>
+    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>
